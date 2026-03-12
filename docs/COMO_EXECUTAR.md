@@ -2,6 +2,10 @@
 
 Este guia reúne o passo a passo necessário para rodar o projeto após baixar o repositório.
 
+Para uma conferência mais direta de ambiente em outra máquina:
+
+- [PRIMEIRO_USO_FACULDADE.md](PRIMEIRO_USO_FACULDADE.md)
+
 ## Pré-requisitos
 
 Antes da execução, é necessário ter:

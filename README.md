@@ -65,6 +65,7 @@ Caso o pacote esteja em outro local, o caminho pode ser informado manualmente no
 O guia detalhado de execução está disponível em:
 
 - [COMO_EXECUTAR.md](docs/COMO_EXECUTAR.md)
+- [PRIMEIRO_USO_FACULDADE.md](docs/PRIMEIRO_USO_FACULDADE.md)
 
 Para uma execução rápida após baixar o repositório:
 
